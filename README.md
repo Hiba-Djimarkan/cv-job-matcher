@@ -3,7 +3,6 @@
 A generative-AI web app that analyses a CV, matches it against a job offer and writes a tailored cover letter. It also has a standalone **CV review** mode that scores a CV and says what is missing.
 
 **Live demo:** https://cv-job-matcher-hiba.streamlit.app/  
-**Video demo:** _add your video link here_
 
 ## Features
 - **Match with a job**: extraction, matching score, strengths, missing skills and a cover letter
