@@ -15,8 +15,10 @@ A generative-AI web app that analyses a CV, matches it against a job offer and w
 Python, Streamlit, Groq API (LLM), pypdf
 
 ## Screenshots
-_Add images in a `screenshots/` folder and link them:_  
-`![Match](screenshots/match.png)`
+### Match avec une offre
+![Match](screenshots/screenshot1.png)
+### CV review
+![CV review](screenshots/screenshot2.png)
 
 ## Run it locally
 1. Clone the repository and open the folder
